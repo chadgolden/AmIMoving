@@ -13,7 +13,7 @@ import android.view.MenuItem;
 import android.widget.TextView;
 
 /**
- *
+ * Created 3/30/2015
  */
 public class MainActivity extends ActionBarActivity implements SensorEventListener {
 
